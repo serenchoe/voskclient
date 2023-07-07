@@ -6,7 +6,7 @@ var webSocket;
 var inputArea;
 const bufferSize = 8192;
 const sampleRate = 8000;
-const wsURL = 'wss://acc2bc06a6b3a482480a84868a592405-1001187077.ap-northeast-2.elb.amazonaws.com:31836';
+const wsURL = 'wss://acc2bc06a6b3a482480a84868a592405-1001187077.ap-northeast-2.elb.amazonaws.com:2700';
 var initComplete = false;
 
 (function () {
