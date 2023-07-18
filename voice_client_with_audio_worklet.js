@@ -5,7 +5,7 @@ var streamLocal;
 var webSocket;
 var inputArea;
 const sampleRate = 8000;
-const wsURL = 'ws://a2b988289a9494c35902ae52a17259de-1617582533.ap-northeast-2.elb.amazonaws.com:2700';
+const wsURL = 'wss://dev.view.dhcth.link/vosk/';
 var initComplete = false;
 
 (function () {
